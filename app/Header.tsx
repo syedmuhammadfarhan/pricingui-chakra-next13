@@ -11,6 +11,7 @@ export default function Header() {
       pb="250px"
       color="white"
     >
+      <Text pt="10px">Pricing UI using Chakra on Nextjs by Farhan</Text>
       <Heading>Simple pricing for your business</Heading>
       <Text pt="10px">
         Plans that are carefully crafted to suit your business.
