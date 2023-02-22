@@ -7,8 +7,8 @@ export default function Header() {
       textAlign={{ base: "left", md: "left", lg: "center" }}
       pl="15px"
       bg="#6B46C1"
-      pt="90px"
-      pb="250px"
+      pt="50px"
+      pb="170px"
       color="white"
     >
       <Text pt="10px">Pricing UI using Chakra on Nextjs by Farhan</Text>
