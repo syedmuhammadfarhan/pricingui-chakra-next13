@@ -35,7 +35,7 @@ export default function Pricing() {
           </Text>
           <Heading fontSize={"60px"}>$329</Heading>
           <Text>billed just once</Text>
-          <Button mt={"20px"} w={{ base: "auto", sm: "300px", md: "300px", lg: "300px" }} color={"white"} bg={"#805AD5"}>
+          <Button mt={"20px"} w={{ base: "auto", sm: "300px", md: "300px", lg: "300px" }} color={"white"} bg={"#805AD5"} _hover={{ bg: "green.500", }}>
             Get Started
           </Button>
         </Box>
